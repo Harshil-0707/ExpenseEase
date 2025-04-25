@@ -7,7 +7,6 @@ import useExpenseData from "../../hooks/useExpenseData";
 import Entertainment from "../../assets/entertainment.png";
 import Transportation from "../../assets/transportation.png";
 import Food_and_Drink from "../../assets/food_and_drinks.png";
-import { div } from "framer-motion/client";
 
 const imgs = [
   { Entertainment: Entertainment },
